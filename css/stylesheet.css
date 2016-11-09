@@ -1,3 +1,19 @@
+header{
+  margin-bottom: 25px;
+}
+
+body {
+  margin: 0;
+}
+
 body h1{
   font-family: Helvetica, Arial, Sans-serif;
+}
+
+img.logo{
+  height: 100px;
+}
+
+footer{
+  margin-top: 25px;
 }
